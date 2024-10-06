@@ -1,0 +1,26 @@
+.black_back {
+    background-color: black;
+}
+
+.select_frame {
+    padding: 5%;
+}
+
+
+.select_main_page {
+    background-image: url("images/back-4.webp ");
+    background-repeat: no-repeat;
+    background-size: auto;
+    background-position: -70px -80px; 
+}
+
+
+.heading {
+    font-family: monospace;
+    color: white;
+}
+
+.spacing_head {
+    padding: 20%;
+    padding-top: 5%;
+}
